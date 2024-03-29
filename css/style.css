@@ -85,7 +85,7 @@ textarea {
    ========================================================================== */
 html {
   font-size: 10px;
-  background: url("/img/background.jpg") bottom center;
+  background: url("/img/drums-on-stage.jpeg") bottom center;
   background-size: cover;
 }
 
@@ -130,10 +130,11 @@ kbd {
 }
 
 .sound {
-  font-size: 1.2rem;
+  font-size: 1.8rem;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
-  color: #ffc600;
+  /* color: #ffc600; */
+  color: white;
 }
 
 /* ==========================================================================
